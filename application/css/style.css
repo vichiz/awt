@@ -1,0 +1,22 @@
+ .ask-ques-form{
+                background: gainsboro;
+                margin: 0 20px;
+                padding: 20px 12px 10px 20px;
+                font: 13px Arial, Helvetica, sans-serif;
+            }
+
+            .ask-ques-form label{
+                background: firebrick;
+                display: block;
+                margin: 0px 0px 15px 0px;
+            }
+            .ask-ques-form label > span{
+                width: 100px;
+                font-weight: bold;
+                float: left;
+                padding-top: 8px;
+                padding-right: 5px;
+            }
+            .btn-tags{
+                margin-left: 105px;
+            }
